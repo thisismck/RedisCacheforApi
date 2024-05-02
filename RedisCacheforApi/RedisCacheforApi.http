@@ -1,0 +1,6 @@
+@RedisCacheforApi_HostAddress = http://localhost:5179
+
+GET {{RedisCacheforApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
